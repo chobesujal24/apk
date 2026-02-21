@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "sscodehub-b5682"
+  },
+  "targets": {
+    "sscodehub-b5682": {
+      "hosting": {
+        "main": [
+          "sscodehub"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
